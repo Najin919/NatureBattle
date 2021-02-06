@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - eq
+  - wood
+  - stone
+  - fireball
+  - blood
+  - body
+  - glass
+  - metall_door
+  - wood_door
+  - dirt
+  - metall
+  - wood_door_glass
+  - Fire
+  - petrol
+  - Bullet
+  - ROOM_ITEM
+  - Player_Prefab
+  - Metal
+  - Target
+  - ExplosiveBarrel
+  - Ground
+  - 7mm_Item
+  - 9mm_Item
+  - Potion_Item
+  - Grenade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Body
+  - Player
+  - Gun
+  - Ground
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

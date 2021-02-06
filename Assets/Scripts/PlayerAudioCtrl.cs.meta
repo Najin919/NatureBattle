@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1dc713a7c967ea84291ce73a4b568752
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WalkaudioSource: {instanceID: 0}
+  - EffectaudioSource: {instanceID: 0}
+  - WalkClip: {fileID: 8300000, guid: d13591abe8feab64c90882bd56b19c9c, type: 3}
+  - ProneWalkClip: {fileID: 8300000, guid: 11af27a57b56c7743bafe6f85ea4435d, type: 3}
+  - Sit_upClip: {fileID: 8300000, guid: f63b8f7b7a919c0429f3c722acaf44a6, type: 3}
+  - GrenadeClip: {fileID: 8300000, guid: a640cc6972f037f4ca8f590635bb4f2a, type: 3}
+  - AKMReloadClip: {fileID: 8300000, guid: c60953862b92d8e4d96e7f4a04670036, type: 3}
+  - PistolReloadClip: {fileID: 8300000, guid: 7bd4890c0a65d454081837a75296f049, type: 3}
+  - AimClip: {fileID: 8300000, guid: acaebc89b98b82142bd2b24edb6081e4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
